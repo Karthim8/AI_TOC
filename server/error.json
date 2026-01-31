@@ -1,0 +1,5 @@
+{
+  "message": "Failed to generate drawing logic: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [404 Not Found] models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+  "stack": "Error: Failed to generate drawing logic: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent: [404 Not Found] models/gemini-1.5-flash-latest is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.\n    at generateDrawingLogic (D:\\AI_Logical_Board\\server\\services\\aiService.js:49:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async test (D:\\AI_Logical_Board\\server\\test_ai_script.js:7:24)",
+  "response": null
+}
